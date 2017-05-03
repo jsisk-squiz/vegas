@@ -1,6 +1,6 @@
 (function($){
     'use strict';
 
-    $(table).stacktable();
+    $('table').stacktable();
 
 }(jQuery));
